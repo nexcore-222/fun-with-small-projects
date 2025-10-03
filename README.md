@@ -7,11 +7,15 @@ Perfect for learning, experimenting, or just having fun!
 
 ### Dinosaur Game
 - A simple clone of the popular Chrome offline dinosaur game.
-- Open `Dinosaur-Game/index.html` in your browser to play.
+- Open `./index.html` in your browser to play.
 
 ### Flappy Bird
 - A simple clone of the popular Flappy Bird game.
-- Open `Flappy-Bird/index.html` in your browser to play.
+- Open `./index.html` in your browser to play.
+
+### Ping-Pong
+- A simple clone of the popular Ping-Pong game.
+- Open `./index.html` in your browser to play.
 
 ## Future Improvements
 - Add sound effects
