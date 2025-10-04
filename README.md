@@ -1,7 +1,7 @@
-# Fun with games
+# Fun with small projects
 
-A collection of silly and fun web-based games made with HTML, CSS, and JavaScript.  
-Perfect for learning, experimenting, or just having fun!
+A collection of silly and fun web-based small projects made with HTML, CSS, and JavaScript.  
+Perfect for learning, experimenting or just having fun!
 
 ## Games
 
@@ -17,6 +17,8 @@ Perfect for learning, experimenting, or just having fun!
 - A simple clone of the popular Ping-Pong game.
 - Open `./index.html` in your browser to play.
 
-## Future Improvements
-- Add sound effects
-- Mobile-friendly controls
+## Web Applications
+
+### Weather Diargams
+- A simple interactive web application for displaying weather forecast. OpenWeather API request included.
+- Open `./index.html` in your browser to start.
