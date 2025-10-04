@@ -22,3 +22,7 @@ Perfect for learning, experimenting or just having fun!
 ### Weather Diargams
 - A simple interactive web application for displaying weather forecast. OpenWeather API request included.
 - Open `./index.html` in your browser to start.
+
+### Moodboard Generator
+- A simple interactive web application that search in Internet all images by keywords using requsts to API.
+- Open `./index.html` in your browser to start.
