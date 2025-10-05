@@ -1,6 +1,6 @@
 # Fun with small projects
 
-A collection of silly and fun web-based small projects made with HTML, CSS, and JavaScript.  
+A collection of silly and fun web-based small projects made with HTML, CSS, JavaScript and Python.  
 Perfect for learning, experimenting or just having fun!
 
 ## Games
